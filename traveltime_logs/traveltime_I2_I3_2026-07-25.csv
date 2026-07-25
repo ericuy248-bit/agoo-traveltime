@@ -1,2 +1,3 @@
 timestamp,segment_id,label,duration_typical_s,duration_traffic_s,tti,distance_m
 2026-07-25T10:47:33.909Z,I2_I3,"I2 (Grotto/Tabora) to I3 (Cases/Asprer)",27,26,0.963,195
+2026-07-25T11:48:38.858Z,I2_I3,"I2 (Grotto/Tabora) to I3 (Cases/Asprer)",27,26,0.963,195
