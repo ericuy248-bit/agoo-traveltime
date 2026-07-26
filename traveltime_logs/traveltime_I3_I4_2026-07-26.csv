@@ -2,3 +2,4 @@ timestamp,segment_id,label,duration_typical_s,duration_traffic_s,tti,distance_m
 2026-07-26T07:46:21.198Z,I3_I4,"I3 (Cases/Asprer) to I4 (Calvary)",26,25,0.962,188
 2026-07-26T09:01:48.263Z,I3_I4,"I3 (Cases/Asprer) to I4 (Calvary)",26,25,0.962,188
 2026-07-26T12:30:07.900Z,I3_I4,"I3 (Cases/Asprer) to I4 (Calvary)",38,21,0.553,196
+2026-07-26T12:46:45.461Z,I3_I4,"I3 (Cases/Asprer) to I4 (Calvary)",38,20,0.526,196

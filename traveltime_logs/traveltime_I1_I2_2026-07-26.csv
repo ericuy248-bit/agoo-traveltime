@@ -2,3 +2,4 @@ timestamp,segment_id,label,duration_typical_s,duration_traffic_s,tti,distance_m
 2026-07-26T07:46:20.974Z,I1_I2,"I1 (Verceles) to I2 (Grotto/Tabora)",103,96,0.932,835
 2026-07-26T09:01:48.083Z,I1_I2,"I1 (Verceles) to I2 (Grotto/Tabora)",103,99,0.961,835
 2026-07-26T12:30:07.658Z,I1_I2,"I1 (Verceles) to I2 (Grotto/Tabora)",52,33,0.635,308
+2026-07-26T12:46:45.232Z,I1_I2,"I1 (Verceles) to I2 (Grotto/Tabora)",52,33,0.635,308
