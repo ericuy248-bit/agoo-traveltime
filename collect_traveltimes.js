@@ -29,11 +29,13 @@ const DAILY_CALL_CAP = 400;              // hard safety cap; script stops loggin
 // point on the map -> the lat,lng shown at the top of the context menu).
 const SEGMENTS = [
   { id: "I1_I2", label: "I1 (Verceles) to I2 (Grotto/Tabora)",
-    origin: "16.3300,120.3900", destination: "16.3275,120.3895" },
+    origin: "16.325846,120.366633", destination: "16.323141,120.367084" },
   { id: "I2_I3", label: "I2 (Grotto/Tabora) to I3 (Cases/Asprer)",
-    origin: "16.3275,120.3895", destination: "16.3262,120.3892" },
+    origin: "16.323141,120.367084", destination: "16.321961,120.367344" },
   { id: "I3_I4", label: "I3 (Cases/Asprer) to I4 (Calvary)",
-    origin: "16.3262,120.3892", destination: "16.3244,120.3888" },
+    origin: "16.321961,120.367344", destination: "16.320234, 120.367705
+
+" },
 ];
 // ---------- END CONFIG ----------
 
