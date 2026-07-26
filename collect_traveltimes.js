@@ -28,14 +28,24 @@ const DAILY_CALL_CAP = 400;              // hard safety cap; script stops loggin
 // Replace these with the real coordinates of I1–I4 (from Google Maps: right-click a
 // point on the map -> the lat,lng shown at the top of the context menu).
 const SEGMENTS = [
-  { id: "I1_I2", label: "I1 (Verceles) to I2 (Grotto/Tabora)",
-    origin: "16.325846,120.366633", destination: "16.323141,120.367084" },
-  { id: "I2_I3", label: "I2 (Grotto/Tabora) to I3 (Cases/Asprer)",
-    origin: "16.323141,120.367084", destination: "16.321961,120.367344" },
-  { id: "I3_I4", label: "I3 (Cases/Asprer) to I4 (Calvary)",
-    origin: "16.321961,120.367344", destination: "16.320234, 120.367705
-
-" },
+  {
+    id: "I1_I2",
+    label: "I1 (Verceles) to I2 (Grotto/Tabora)",
+    origin: "16.325846,120.366633",
+    destination: "16.323141,120.367084"
+  },
+  {
+    id: "I2_I3",
+    label: "I2 (Grotto/Tabora) to I3 (Cases/Asprer)",
+    origin: "16.323141,120.367084",
+    destination: "16.321961,120.367344"
+  },
+  {
+    id: "I3_I4",
+    label: "I3 (Cases/Asprer) to I4 (Calvary)",
+    origin: "16.321961,120.367344",
+    destination: "16.320234,120.367705"
+  },
 ];
 // ---------- END CONFIG ----------
 
