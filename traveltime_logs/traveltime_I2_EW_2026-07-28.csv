@@ -1,0 +1,2 @@
+timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_traffic_s,tti,distance_m,expected_distance_m,distance_check,speed_kmh,low_traffic_data
+2026-07-27T22:30:40.229Z,2026-07-28 06:30:40 PHT,I2_EW,"Grotto Rd./G. Tabora Rd. crossing at I2 (west to east)",EW_cross,92,80,0.870,302,,N/A,13.6,

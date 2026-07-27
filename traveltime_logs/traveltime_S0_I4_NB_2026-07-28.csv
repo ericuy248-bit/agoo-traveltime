@@ -1,0 +1,2 @@
+timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_traffic_s,tti,distance_m,expected_distance_m,distance_check,speed_kmh,low_traffic_data
+2026-07-27T22:30:39.853Z,2026-07-28 06:30:39 PHT,S0_I4_NB,"S0 (~150m S of I4) -> I4 northbound (downstream approach)",NS_highway,30,22,0.733,150,150,OK,24.5,
