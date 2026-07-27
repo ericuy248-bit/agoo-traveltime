@@ -36,5 +36,4 @@ jobs:
           name: traveltime-logs-${{ github.run_id }}
           path: traveltime_logs/*.csv
           retention-days: 7
-          path: traveltime_logs/*.csv
-          retention-days: 7
+       
