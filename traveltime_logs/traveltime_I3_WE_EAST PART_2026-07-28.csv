@@ -2,3 +2,4 @@ timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_tra
 2026-07-28T08:32:35.250Z,2026-07-28 16:32:35 PHT,I3_WE_EAST PART,"G.Tabora crossing I3 (west to east)",NS_highway,32,31,0.969,151,150,OK,17.5,
 2026-07-28T08:46:56.269Z,2026-07-28 16:46:56 PHT,I3_WE_EAST PART,"G.Tabora crossing I3 (west to east)",NS_highway,32,31,0.969,151,150,OK,17.5,
 2026-07-28T09:00:41.975Z,2026-07-28 17:00:41 PHT,I3_WE_EAST PART,"G.Tabora crossing I3 (west to east)",NS_highway,32,31,0.969,151,150,OK,17.5,
+2026-07-28T09:15:37.656Z,2026-07-28 17:15:37 PHT,I3_WE_EAST PART,"G.Tabora crossing I3 (west to east)",NS_highway,32,31,0.969,151,150,OK,17.5,
