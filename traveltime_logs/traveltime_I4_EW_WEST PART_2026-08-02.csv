@@ -1,3 +1,4 @@
 timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_traffic_s,tti,distance_m,expected_distance_m,distance_check,speed_kmh,low_traffic_data
 2026-08-01T22:33:20.640Z,2026-08-02 06:33:20 PHT,I4_EW_WEST PART,"Calvary Road crossing at I4(east to west)",NS_highway,34,33,0.971,154,150,OK,16.8,
 2026-08-01T22:47:37.891Z,2026-08-02 06:47:37 PHT,I4_EW_WEST PART,"Calvary Road crossing at I4(east to west)",NS_highway,34,33,0.971,154,150,OK,16.8,
+2026-08-01T23:02:53.071Z,2026-08-02 07:02:53 PHT,I4_EW_WEST PART,"Calvary Road crossing at I4(east to west)",NS_highway,34,34,1.000,154,150,OK,16.3,POSSIBLE
