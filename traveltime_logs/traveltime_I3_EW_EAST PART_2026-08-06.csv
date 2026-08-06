@@ -6,3 +6,4 @@ timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_tra
 2026-08-05T23:30:48.882Z,2026-08-06 07:30:48 PHT,I3_EW_EAST PART,"G.tabora at I3 (east to west)",NS_highway,30,30,1.000,151,150,OK,18.1,POSSIBLE
 2026-08-05T23:45:37.068Z,2026-08-06 07:45:37 PHT,I3_EW_EAST PART,"G.tabora at I3 (east to west)",NS_highway,30,30,1.000,151,150,OK,18.1,POSSIBLE
 2026-08-05T23:57:10.738Z,2026-08-06 07:57:10 PHT,I3_EW_EAST PART,"G.tabora at I3 (east to west)",NS_highway,30,30,1.000,151,150,OK,18.1,POSSIBLE
+2026-08-06T08:32:09.464Z,2026-08-06 16:32:09 PHT,I3_EW_EAST PART,"G.tabora at I3 (east to west)",NS_highway,30,30,1.000,151,150,OK,18.1,POSSIBLE
