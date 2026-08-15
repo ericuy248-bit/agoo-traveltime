@@ -1,0 +1,2 @@
+timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_traffic_s,tti,distance_m,expected_distance_m,distance_check,speed_kmh,low_traffic_data
+2026-08-15T22:59:56.830Z,2026-08-16 06:59:56 PHT,I2_EW_WEST PART,"Cases Blvd crossing at I2 (east to west)",NS_highway,47,45,0.957,151,150,OK,12.1,
