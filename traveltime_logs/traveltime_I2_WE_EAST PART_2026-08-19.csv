@@ -1,0 +1,2 @@
+timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_traffic_s,tti,distance_m,expected_distance_m,distance_check,speed_kmh,low_traffic_data
+2026-08-18T23:03:12.571Z,2026-08-19 07:03:12 PHT,I2_WE_EAST PART,"Grotto Road crossing at I2 (west to east)",NS_highway,39,59,1.513,151,150,OK,9.2,
