@@ -1,0 +1,2 @@
+timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_traffic_s,tti,distance_m,expected_distance_m,distance_check,speed_kmh,low_traffic_data
+2026-08-22T23:00:57.003Z,2026-08-23 07:00:57 PHT,I3_WE_WEST PART,"T.asprer crossing at I3 (west to east)",NS_highway,36,36,1.000,150,150,OK,15.0,POSSIBLE
