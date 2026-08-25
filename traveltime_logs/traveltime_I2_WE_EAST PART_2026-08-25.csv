@@ -2,3 +2,4 @@ timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_tra
 2026-08-24T22:51:04.084Z,2026-08-25 06:51:04 PHT,I2_WE_EAST PART,"Grotto Road crossing at I2 (west to east)",NS_highway,39,34,0.872,151,150,OK,16.0,
 2026-08-24T23:26:00.853Z,2026-08-25 07:26:00 PHT,I2_WE_EAST PART,"Grotto Road crossing at I2 (west to east)",NS_highway,39,47,1.205,150,150,OK,11.5,
 2026-08-24T23:48:57.292Z,2026-08-25 07:48:57 PHT,I2_WE_EAST PART,"Grotto Road crossing at I2 (west to east)",NS_highway,39,56,1.436,150,150,OK,9.6,
+2026-08-25T09:08:52.786Z,2026-08-25 17:08:52 PHT,I2_WE_EAST PART,"Grotto Road crossing at I2 (west to east)",NS_highway,39,84,2.154,151,150,OK,6.5,
