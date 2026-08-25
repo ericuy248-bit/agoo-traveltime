@@ -1,0 +1,2 @@
+timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_traffic_s,tti,distance_m,expected_distance_m,distance_check,speed_kmh,low_traffic_data
+2026-08-25T22:52:08.843Z,2026-08-26 06:52:08 PHT,I3_I2_NB,"I3->I2 northbound (Cases/Asprer to Grotto/Tabora)",NS_highway,27,25,0.926,134,136,OK,19.3,

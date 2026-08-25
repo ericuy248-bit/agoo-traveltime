@@ -1,0 +1,2 @@
+timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_traffic_s,tti,distance_m,expected_distance_m,distance_check,speed_kmh,low_traffic_data
+2026-08-25T22:52:08.394Z,2026-08-26 06:52:08 PHT,I1_EW_EAST PART,"Verceles St. crossing at I1 (east to west)",NS_highway,27,36,1.333,150,150,OK,15.0,
