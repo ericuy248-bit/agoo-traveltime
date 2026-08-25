@@ -1,2 +1,3 @@
 timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_traffic_s,tti,distance_m,expected_distance_m,distance_check,speed_kmh,low_traffic_data
 2026-08-25T22:52:09.225Z,2026-08-26 06:52:09 PHT,I4_I3_NB,"I4->I3 northbound (Calvary to Cases/Asprer)",NS_highway,44,42,0.955,196,200,OK,16.8,
+2026-08-25T23:28:17.881Z,2026-08-26 07:28:17 PHT,I4_I3_NB,"I4->I3 northbound (Calvary to Cases/Asprer)",NS_highway,44,58,1.318,196,200,OK,12.2,
