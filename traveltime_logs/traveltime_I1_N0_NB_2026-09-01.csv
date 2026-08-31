@@ -5,3 +5,4 @@ timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_tra
 2026-08-31T23:15:29.264Z,2026-09-01 07:15:29 PHT,I1_N0_NB,"I1 -> N0 (~150m N of I1) northbound (upstream approach)",NS_highway,23,18,0.783,151,150,OK,30.2,
 2026-08-31T23:30:18.953Z,2026-09-01 07:30:18 PHT,I1_N0_NB,"I1 -> N0 (~150m N of I1) northbound (upstream approach)",NS_highway,23,20,0.870,151,150,OK,27.2,
 2026-08-31T23:55:34.133Z,2026-09-01 07:55:34 PHT,I1_N0_NB,"I1 -> N0 (~150m N of I1) northbound (upstream approach)",NS_highway,23,21,0.913,151,150,OK,25.9,
+2026-08-31T23:58:42.521Z,2026-09-01 07:58:42 PHT,I1_N0_NB,"I1 -> N0 (~150m N of I1) northbound (upstream approach)",NS_highway,23,19,0.826,151,150,OK,28.6,
