@@ -1,3 +1,4 @@
 timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_traffic_s,tti,distance_m,expected_distance_m,distance_check,speed_kmh,low_traffic_data
 2026-08-31T22:44:21.269Z,2026-09-01 06:44:21 PHT,I3_EW_EAST PART,"G.tabora at I3 (east to west)",NS_highway,30,30,1.000,151,150,OK,18.1,POSSIBLE
 2026-08-31T22:47:01.215Z,2026-09-01 06:47:01 PHT,I3_EW_EAST PART,"G.tabora at I3 (east to west)",NS_highway,30,30,1.000,151,150,OK,18.1,POSSIBLE
+2026-08-31T23:00:31.427Z,2026-09-01 07:00:31 PHT,I3_EW_EAST PART,"G.tabora at I3 (east to west)",NS_highway,30,30,1.000,151,150,OK,18.1,POSSIBLE
