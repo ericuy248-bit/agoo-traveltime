@@ -3,3 +3,4 @@ timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_tra
 2026-08-31T22:47:01.339Z,2026-09-01 06:47:01 PHT,S0_I4_NB,"S0 (~150m S of I4) -> I4 northbound (downstream approach)",NS_highway,30,36,1.200,150,150,OK,15.0,
 2026-08-31T23:00:31.665Z,2026-09-01 07:00:31 PHT,S0_I4_NB,"S0 (~150m S of I4) -> I4 northbound (downstream approach)",NS_highway,30,35,1.167,150,150,OK,15.4,
 2026-08-31T23:15:30.861Z,2026-09-01 07:15:30 PHT,S0_I4_NB,"S0 (~150m S of I4) -> I4 northbound (downstream approach)",NS_highway,30,51,1.700,150,150,OK,10.6,
+2026-08-31T23:30:20.022Z,2026-09-01 07:30:20 PHT,S0_I4_NB,"S0 (~150m S of I4) -> I4 northbound (downstream approach)",NS_highway,30,51,1.700,150,150,OK,10.6,
