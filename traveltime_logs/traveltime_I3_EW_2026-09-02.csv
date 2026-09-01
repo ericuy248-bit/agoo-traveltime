@@ -1,2 +1,3 @@
 timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_traffic_s,tti,distance_m,expected_distance_m,distance_check,speed_kmh,low_traffic_data
 2026-09-01T22:30:50.003Z,2026-09-02 06:30:50 PHT,I3_EW,"Cases Blvd./T. Asprer St. crossing at I3 (west to east)",EW_cross,69,68,0.986,301,,N/A,15.9,
+2026-09-01T22:45:25.493Z,2026-09-02 06:45:25 PHT,I3_EW,"Cases Blvd./T. Asprer St. crossing at I3 (west to east)",EW_cross,69,68,0.986,301,,N/A,15.9,
