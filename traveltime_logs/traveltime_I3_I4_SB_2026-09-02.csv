@@ -2,3 +2,4 @@ timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_tra
 2026-09-01T22:30:48.929Z,2026-09-02 06:30:48 PHT,I3_I4_SB,"I3->I4 southbound (Cases/Asprer to Calvary)",NS_highway,38,29,0.763,196,200,OK,24.3,
 2026-09-01T22:45:24.681Z,2026-09-02 06:45:24 PHT,I3_I4_SB,"I3->I4 southbound (Cases/Asprer to Calvary)",NS_highway,26,26,1.000,196,200,OK,27.1,POSSIBLE
 2026-09-01T23:14:46.929Z,2026-09-02 07:14:46 PHT,I3_I4_SB,"I3->I4 southbound (Cases/Asprer to Calvary)",NS_highway,38,39,1.026,196,200,OK,18.1,
+2026-09-01T23:15:19.969Z,2026-09-02 07:15:19 PHT,I3_I4_SB,"I3->I4 southbound (Cases/Asprer to Calvary)",NS_highway,38,39,1.026,196,200,OK,18.1,
