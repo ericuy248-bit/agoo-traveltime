@@ -1,3 +1,4 @@
 timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_traffic_s,tti,distance_m,expected_distance_m,distance_check,speed_kmh,low_traffic_data
 2026-09-01T22:30:48.317Z,2026-09-02 06:30:48 PHT,I2_I1_NB,"I2->I1 northbound (Grotto/Tabora to Verceles)",NS_highway,49,50,1.020,308,310,OK,22.2,
 2026-09-01T22:45:24.168Z,2026-09-02 06:45:24 PHT,I2_I1_NB,"I2->I1 northbound (Grotto/Tabora to Verceles)",NS_highway,49,66,1.347,308,310,OK,16.8,
+2026-09-01T23:14:46.365Z,2026-09-02 07:14:46 PHT,I2_I1_NB,"I2->I1 northbound (Grotto/Tabora to Verceles)",NS_highway,49,94,1.918,306,310,OK,11.7,
