@@ -1,0 +1,2 @@
+timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_traffic_s,tti,distance_m,expected_distance_m,distance_check,speed_kmh,low_traffic_data
+2026-09-02T23:41:43.229Z,2026-09-03 07:41:43 PHT,I4_EW,"Calvary Rd. crossing at I4 (west to east)",EW_cross,72,60,0.833,305,,N/A,18.3,
