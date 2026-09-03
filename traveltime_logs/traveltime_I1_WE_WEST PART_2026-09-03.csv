@@ -2,3 +2,4 @@ timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_tra
 2026-09-02T23:41:40.220Z,2026-09-03 07:41:40 PHT,I1_WE_WEST PART,"Verceles St. crossing at I1 (east to west)",NS_highway,26,40,1.538,150,150,OK,13.5,
 2026-09-03T08:34:29.268Z,2026-09-03 16:34:29 PHT,I1_WE_WEST PART,"Verceles St. crossing at I1 (east to west)",NS_highway,26,39,1.500,150,150,OK,13.8,
 2026-09-03T08:45:33.311Z,2026-09-03 16:45:33 PHT,I1_WE_WEST PART,"Verceles St. crossing at I1 (east to west)",NS_highway,26,36,1.385,150,150,OK,15.0,
+2026-09-03T09:09:00.786Z,2026-09-03 17:09:00 PHT,I1_WE_WEST PART,"Verceles St. crossing at I1 (east to west)",NS_highway,26,34,1.308,150,150,OK,15.9,

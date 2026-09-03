@@ -2,3 +2,4 @@ timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_tra
 2026-09-02T23:41:41.277Z,2026-09-03 07:41:41 PHT,I2_EW_WEST PART,"Cases Blvd crossing at I2 (east to west)",NS_highway,45,46,1.022,151,150,OK,11.8,
 2026-09-03T08:34:29.983Z,2026-09-03 16:34:29 PHT,I2_EW_WEST PART,"Cases Blvd crossing at I2 (east to west)",NS_highway,45,62,1.378,151,150,OK,8.8,
 2026-09-03T08:45:33.825Z,2026-09-03 16:45:33 PHT,I2_EW_WEST PART,"Cases Blvd crossing at I2 (east to west)",NS_highway,45,66,1.467,151,150,OK,8.2,
+2026-09-03T09:09:01.681Z,2026-09-03 17:09:01 PHT,I2_EW_WEST PART,"Cases Blvd crossing at I2 (east to west)",NS_highway,45,68,1.511,151,150,OK,8.0,
