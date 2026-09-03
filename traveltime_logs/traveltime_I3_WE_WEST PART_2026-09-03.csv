@@ -4,3 +4,4 @@ timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_tra
 2026-09-03T08:45:34.368Z,2026-09-03 16:45:34 PHT,I3_WE_WEST PART,"T.asprer crossing at I3 (west to east)",NS_highway,36,36,1.000,150,150,OK,15.0,POSSIBLE
 2026-09-03T09:09:02.264Z,2026-09-03 17:09:02 PHT,I3_WE_WEST PART,"T.asprer crossing at I3 (west to east)",NS_highway,36,36,1.000,150,150,OK,15.0,POSSIBLE
 2026-09-03T09:24:14.109Z,2026-09-03 17:24:14 PHT,I3_WE_WEST PART,"T.asprer crossing at I3 (west to east)",NS_highway,36,36,1.000,150,150,OK,15.0,POSSIBLE
+2026-09-03T09:27:58.782Z,2026-09-03 17:27:58 PHT,I3_WE_WEST PART,"T.asprer crossing at I3 (west to east)",NS_highway,36,35,0.972,150,150,OK,15.4,
