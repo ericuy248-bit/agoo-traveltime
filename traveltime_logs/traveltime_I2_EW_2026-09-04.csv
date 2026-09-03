@@ -2,3 +2,4 @@ timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_tra
 2026-09-03T22:33:30.347Z,2026-09-04 06:33:30 PHT,I2_EW,"Grotto Rd./G. Tabora Rd. crossing at I2 (west to east)",EW_cross,84,76,0.905,302,,N/A,14.3,
 2026-09-03T22:45:32.596Z,2026-09-04 06:45:32 PHT,I2_EW,"Grotto Rd./G. Tabora Rd. crossing at I2 (west to east)",EW_cross,84,83,0.988,303,,N/A,13.1,
 2026-09-03T23:00:46.362Z,2026-09-04 07:00:46 PHT,I2_EW,"Grotto Rd./G. Tabora Rd. crossing at I2 (west to east)",EW_cross,84,108,1.286,303,,N/A,10.1,
+2026-09-03T23:15:42.430Z,2026-09-04 07:15:42 PHT,I2_EW,"Grotto Rd./G. Tabora Rd. crossing at I2 (west to east)",EW_cross,84,110,1.310,303,,N/A,9.9,
