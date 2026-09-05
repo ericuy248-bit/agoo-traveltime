@@ -1,2 +1,3 @@
 timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_traffic_s,tti,distance_m,expected_distance_m,distance_check,speed_kmh,low_traffic_data
 2026-09-05T08:55:48.579Z,2026-09-05 16:55:48 PHT,N0_I1_SB,"N0 (~150m N of I1) -> I1 southbound (upstream approach)",NS_highway,23,32,1.391,151,150,OK,17.0,
+2026-09-05T08:56:38.028Z,2026-09-05 16:56:38 PHT,N0_I1_SB,"N0 (~150m N of I1) -> I1 southbound (upstream approach)",NS_highway,23,34,1.478,151,150,OK,16.0,
