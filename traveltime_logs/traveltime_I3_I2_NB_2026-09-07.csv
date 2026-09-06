@@ -2,3 +2,4 @@ timestamp_utc,timestamp_ph,segment_id,label,axis,duration_typical_s,duration_tra
 2026-09-06T22:32:38.538Z,2026-09-07 06:32:38 PHT,I3_I2_NB,"I3->I2 northbound (Cases/Asprer to Grotto/Tabora)",NS_highway,27,22,0.815,134,136,OK,21.9,
 2026-09-06T22:45:16.746Z,2026-09-07 06:45:16 PHT,I3_I2_NB,"I3->I2 northbound (Cases/Asprer to Grotto/Tabora)",NS_highway,27,34,1.259,134,136,OK,14.2,
 2026-09-06T23:00:15.295Z,2026-09-07 07:00:15 PHT,I3_I2_NB,"I3->I2 northbound (Cases/Asprer to Grotto/Tabora)",NS_highway,27,34,1.259,134,136,OK,14.2,
+2026-09-06T23:15:32.177Z,2026-09-07 07:15:32 PHT,I3_I2_NB,"I3->I2 northbound (Cases/Asprer to Grotto/Tabora)",NS_highway,27,34,1.259,134,136,OK,14.2,
